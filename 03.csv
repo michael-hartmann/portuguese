@@ -1,68 +1,81 @@
-ledig;                      solteiro
-verheiratet;                casada
-passend, geeignet;          adequado, adequada
+ledig;       solteiro
+verheiratet; casada
+
+passend, geeignet; adequado, adequada
+
 gesund; são
 krank; doente
+
 teuer; caro
-einfach, leicht; fácil
-schmutzig; sujo
 billig; barato
-klein, niedrig; baixo
+
+einfach, leicht;   fácil
 schwer, schwierig; difícil
+
+schmutzig;    sujo
 sauber, rein; limpo
+
+hoch, groß,     alto
+klein, niedrig; baixo
+
+richtig; correto
+falsch;  errado
+
+klein; pequeno
+groß;  grandé
+
 kalt; frio
 warm; quente
-groß; grandé
+
 alt; velho
-klein; pequeno
-richtig; correto
 neu; novo
-falsch; errado
-hoch, groß, alto
-rot; vermelho
+
+rot;  vermelho
 grün; verde
 blau; azul
 gelb; amarelo
 
-trinken; beber
-rennen; correr
-spielen; jogar
-sprechen;                   falar
-wohnen, sich aufhalten; morar
+erzählen,  contar
+fragen;    perguntar
+rufen,     nennen; chamar
+schreiben; escrever
+
 gehen; andar
-erzählen, contar
-besuchen; visitar
 wandern; passear
-kaufen; comprar
-fragen;                     perguntar
-essen;                      comer
-öffnen;                     abrir
+rennen; correr
+reisen; viajar
 abfahren, abreisen, weggehen; patir
-schreiben;                  escrever
-verbinden, verknüfen;       juntar
-ergänzen;                   completar
-rufen, nennen;              chamar
+besuchen, aufsuchen; visitar
+
+trinken; beber
+essen; comer
+
+spielen; jogar
+sprechen; falar
+wohnen, sich aufhalten; morar
+besuchen; visitar
+kaufen; comprar
+öffnen; abrir
+verbinden, verknüfen; juntar
+ergänzen; completar
 lernen; estudar
 stehen, sich befinden; ficar
-besuchen, aufsuchen; visitar
-fragen; perguntar
 bedeuten, meinen; significar
 verstehen; compreender
-heißen;                     chamar-se
-anordnen;                   ordenar
-mögen;                      gostar
-machen,tun; fazer
-reisen; viajar
+heißen; chamar-se
+anordnen; ordenar
+mögen; gostar
+machen, tun; fazer
 kochen; cozinhar
 
-jede;                       cada
-aber;                       mas
-oder;                       ou
-mehr;                       mais
-viele;                      muitos
-und;                        e
-auch, ebenfalls;            também
-gleichfalsls, ebenfalls;    igualmente
-weder ... noch;             nem ... nem
-dann, folglich;             então
-gut;                        bem
+jede;                    cada
+aber;                    mas
+oder;                    ou
+mehr;                    mais
+viele;                   muitos
+und;                     e
+auch, ebenfalls;         também
+gleichfalsls, ebenfalls; igualmente
+weder ... noch;          nem ... nem
+dann, folglich;          então
+gut;                     bem
