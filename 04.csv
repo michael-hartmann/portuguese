@@ -1,6 +1,6 @@
 0;   zero
-1;   um, uma
-2;   dois, duas
+1;   um
+2;   dois
 3;   três
 4;   quatro
 5;   cinco
@@ -18,7 +18,9 @@
 17;  dezassete
 18;  dezoito
 19;  dezanove
+
 20;  vinte
+
 30;  trinta
 40;  quarenta
 50;  cinquenta
@@ -26,4 +28,5 @@
 70;  setenta
 80;  oitenta
 90;  noventa
-100; cem, centro
+
+100; cem
