@@ -1,10 +1,13 @@
 ledig;       solteiro
 verheiratet; casada
 
-passend, geeignet; adequado, adequada
+passend, geeignet; adequado
 
 gesund; são
 krank; doente
+
+fröhlich; alegra
+traurig; triste
 
 teuer; caro
 billig; barato
@@ -15,7 +18,7 @@ schwer, schwierig; difícil
 schmutzig;    sujo
 sauber, rein; limpo
 
-hoch, groß,     alto
+hoch, groß;     alto
 klein, niedrig; baixo
 
 richtig; correto
@@ -35,12 +38,13 @@ grün; verde
 blau; azul
 gelb; amarelo
 
-erzählen,  contar
+erzählen;  contar
 fragen;    perguntar
-rufen,     nennen; chamar
+rufen, nennen; chamar
 schreiben; escrever
 
-gehen; andar
+gehen (allgemein); ir
+gehen (zu Fuß); andar
 wandern; passear
 rennen; correr
 reisen; viajar
