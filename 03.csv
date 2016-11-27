@@ -37,6 +37,8 @@ rot;  vermelho
 grün; verde
 blau; azul
 gelb; amarelo
+weiß; branco
+schwarz; preto
 
 erzählen;  contar
 fragen;    perguntar
@@ -54,7 +56,10 @@ besuchen, aufsuchen; visitar
 trinken; beber
 essen; comer
 
-spielen; jogar
+spielen (Instrument); tocar
+nehmen, fassen; tomae
+spielen (Sport); jogar
+spielen, spaßen; brincar
 sprechen; falar
 wohnen, sich aufhalten; morar
 kaufen; comprar
@@ -67,7 +72,7 @@ bedeuten, meinen; significar
 verstehen; compreender
 heißen; chamar-se
 anordnen; ordenar
-mögen; gostar
+mögen; gostar de
 machen, tun; fazer
 kochen; cozinhar
 
