@@ -1,4 +1,5 @@
 Regulär:
+
 |                 | comprar   | vender   | dividir   |
 |-----------------|-----------|----------|-----------|
 | eu              | compro    | vendo    | divido    |
@@ -8,6 +9,7 @@ Regulär:
 | eles/elas/vocês | compram   | vendem   | dividem   |
 
 Irregulär:
+
 |                 | ser   | estar   | ir    | ter   | haver |
 |-----------------|-------|---------|-------|-------|-------|
 | eu              | sou   | estou   | vou   | tenho |       |
